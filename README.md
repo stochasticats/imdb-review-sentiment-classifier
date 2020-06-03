@@ -1,14 +1,14 @@
 # IMDb Movie Review Sentinment Classifier
 Deep learning model in Keras used to classify sentiment on movie reviews from IMDb. This repo is still a work in progress.
 
-TO DO:
+To do:
 
-clean up code
+1. Clean up code - partially done
 
-add explanation text
+2. Add explanation text - partially done
 
-try different model
+3. Try different model - First tried only dense layers, now trying 1D convolution layers.
 
-use glove word embeddings
+3. Use GloVe word embeddings - Not tried, using embedding layer that gets trained.
 
-implement prediction for users own review
+4. Implement prediction for users own review - Done.
